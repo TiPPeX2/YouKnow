@@ -1,0 +1,1 @@
+curl https://github.com/TiPPeX2/YouKnow/blob/master/src/setup.sh | sudo sh

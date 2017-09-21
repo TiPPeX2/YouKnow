@@ -24,7 +24,7 @@ tightvncserver :1
 tightvncserver -kill :1
 
 #Add config
-wget https://gist.github.com/anonymous/d0606a74a17247134e74b6f20abe24ab/raw/7be591567fc5e3324fcac5d7edfc63d36a3684b4/xstartup -O ~/.vnc/xstartup
+wget https://github.com/TiPPeX2/YouKnow/blob/master/src/startup.sh -O ~/.vnc/xstartup
 
 #boot vnc
 tightvncserver :1
